@@ -14,10 +14,13 @@ lets the user specify
    * an output folder
    * an input ROI suffix (only zip files whose name ends in this will be used)
    * an output ROI suffix
+
 and saves 
    * the manually drawn rois as zip files ending in output ROI suffix
    * the created binary images as tiffs ending in output ROI suffix
    * the results of the [ImageJ Analyse Particles](https://imagej.nih.gov/ij/docs/menus/analyze.html#ap) function as csv files
+
+into the output folder.
 The scale is hard-coded into the macro, as all my images were taken at the same magnification.
 Empty selections are ignored, the code just continues to execute.
 Particles touching the image boundary are not counted.
