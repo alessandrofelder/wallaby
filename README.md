@@ -28,4 +28,4 @@ mages need to match user-specified suffixes.
 Afterwards, the [ImageJ Analyse Particles](https://imagej.nih.gov/ij/docs/menus/analyze.html#ap) function is run on the difference images and the results are stored as a csv file. Particles touching the image boundary are not counted.
 
 ### name
-The name is chosen because when I measure secondary osteons on lots of images, I sometime feel like a [stoned wallaby making crop circles in a poppy field](http://news.bbc.co.uk/1/hi/world/asia-pacific/8118257.stm).
+The name is chosen because when I measure secondary osteons on lots of images, I sometimes feel like a [stoned wallaby making crop circles in a poppy field](http://news.bbc.co.uk/1/hi/world/asia-pacific/8118257.stm).
